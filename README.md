@@ -1,0 +1,1 @@
+# Tugas_MPI_SmartLibrary
